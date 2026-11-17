@@ -1,10 +1,10 @@
 <img width="726" height="340" alt="stiker" src="https://github.com/user-attachments/assets/eff3e554-0414-4f01-a7c4-2f5afa3b1e96" />
 
+> ⚠️ **WARNING:** This script has no permission system. Once it is started, every player on the server can use it. Use it only on a test or development server, or when no players are online.
+
 # OX Debug | Free Developer Tool for Entities & Targets
 
 OX Debug is an in-game developer tool built on ox_target and ox_lib. Aim at any ped, vehicle, object or point in the world and instantly inspect it, edit it, copy its data or create targets and objects, without leaving the game.
-
-> **WARNING:** This script has no permission system. Once it is started, every player on the server can use it. Use it only on a test or development server, or when no players are online.
 
 |  | Requirements | Download |
 | --- | --- | --- |
